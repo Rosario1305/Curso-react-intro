@@ -1,0 +1,11 @@
+.TodoCounter {
+	font-size: 30px;
+	text-align: center;
+	margin: 50px;
+  padding: 20px;
+	background-color: rgb(22, 11, 104); 
+	/* background: linear-gradient(to bottom,  rgb(22, 11, 104) 50%,#fff 100%);*/
+	border-radius: 100px;
+	font-family: Lato;
+	color: #f8f7f7;
+}
